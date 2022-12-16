@@ -5,7 +5,7 @@ body {
 .container {
     margin: 0;
     padding: 0;
-    min-height: 100vh;
+    min-height: 300vh;
     padding: 2rem;
     min-height: 300px;
     min-width: 400px;
@@ -33,19 +33,4 @@ body {
 }
 .hexBtn:hover {
     background: black;
-}
-.cont {
-    min-height: 200px;
-    min-width: 200px;
-}
-.AgeBtn {
-    background-color: rgba(0, 0, 0, 0.571);
-    color: rgb(255, 255, 255);
-    cursor: pointer;
-    border: none;
-    padding: 0.25rem 0.5rem;
-    font-size: 1.3rem;
-}
-.AgeBtn:hover {
-    background-color: black;
 }
